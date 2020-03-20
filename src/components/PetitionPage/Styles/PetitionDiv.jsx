@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import useInputChange from "../../../../hooks/useInputChange"
+import useInputChange from "../../../hooks/useInputChange"
 
 const Wrapper = styled.section`
 	height: 60%;
